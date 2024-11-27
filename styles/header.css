@@ -74,3 +74,17 @@
   .container__titulo {
     display: none;
   }
+  .opções {
+    display: flex;
+  }
+  .opções_item {
+    padding: 0 1em;
+    text-transform: uppercase;
+  }
+  .opções__link {
+    text-decoration: none;
+    color: var(--preto);
+  }
+  .opções {
+    display: none;
+  }
